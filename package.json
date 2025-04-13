@@ -1,0 +1,15 @@
+{
+  "name": "e2",
+  "version": "1.0.0",
+  "main": "Exercise2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
